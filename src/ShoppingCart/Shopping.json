@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG2DDuLxrHSLM84fiVo7V8bTUBYjY7xqkZ8Q&s",
+    "sale": false,
+    "title": "Fancy Product",
+    "newPrice": "$40.00-$80.00",
+    "btn": "View option",
+    "rating": false
+  },
+  {
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbLv_MMmfb9UAcdaC6U9_5yGSlQOS1cTYGpZpmPJmayZ6siJojZUUG8i8O2mJ5psguRo&usqp=CAU",
+    "sale": true,
+    "title": "Special Item",
+    "oldPrice": "$20.00",
+    "newPrice": "$18.00",
+    "btn": "Add to cart",
+    "rating": true
+  },
+  {
+    "id": 3,
+    "image": "https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074075.jpg",
+    "sale": true,
+    "title": "sale Item",
+    "oldPrice": "$50.00",
+    "newPrice": "$25.00",
+    "btn": "Add to cart",
+    "rating": false
+  },
+  {
+    "id": 4,
+    "image": "https://img.freepik.com/free-photo/shopping-cart-full-products-inside-supermarket_123827-28166.jpg",
+    "sale": false,
+    "title": "Popular Item",
+    "newPrice": "$40.00",
+    "btn": "Add to cart",
+    "rating": true
+  },
+  {
+    "id": 5,
+    "image": "https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074075.jpg",
+    "sale": true,
+    "title": "sale Item",
+    "oldPrice": "$50.00",
+    "newPrice": "$25.00",
+    "btn": "Add to cart",
+    "rating": false
+  },
+  {
+    "id": 6,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG2DDuLxrHSLM84fiVo7V8bTUBYjY7xqkZ8Q&s",
+    "sale": false,
+    "title": "Fancy Product",
+    "newPrice": "$40.00-$80.00",
+    "btn": "View option",
+    "rating": false
+  },
+  {
+    "id": 7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbLv_MMmfb9UAcdaC6U9_5yGSlQOS1cTYGpZpmPJmayZ6siJojZUUG8i8O2mJ5psguRo&usqp=CAU",
+    "sale": true,
+    "title": "Special Item",
+    "oldPrice": "$20.00",
+    "newPrice": "$18.00",
+    "btn": "Add to cart",
+    "rating": true
+  },
+  {
+    "id": 8,
+    "image": "https://img.freepik.com/free-photo/shopping-cart-full-products-inside-supermarket_123827-28166.jpg",
+    "sale": false,
+    "title": "Popular Item",
+    "newPrice": "$40.00",
+    "btn": "Add to cart",
+    "rating": true
+  }
+]
